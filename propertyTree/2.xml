@@ -1,0 +1,17 @@
+{
+    "root": {
+        "xuexiao": {
+            "mianji": "3000",
+            "library": [
+                {
+                    "name": "english",
+                    "price": "10"
+                },
+                {
+                    "name": "chinese",
+                    "price": "20"
+                }
+            ]
+        }
+    }
+}

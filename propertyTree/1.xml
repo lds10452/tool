@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xiaozhang name="xxx" weight="40">
 	<laoshi age="10" xxx="11">
-		<xuesheng weight="30">
+		<xuesheng weight="40">
+			<name>lisan</name>
+			<age>20</age>
+		</xuesheng>
+		<xxx weight="30">
 			<name>lisi</name>
 			<age>10</age>
-		</xuesheng>
+		</xxx>
 	</laoshi>
+	<!-- This is a comment inside root -->
 </xiaozhang>
